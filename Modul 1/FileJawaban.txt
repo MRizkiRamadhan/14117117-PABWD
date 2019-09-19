@@ -1,0 +1,10 @@
+Jawaban soal 1.5 Modul 1
+1. Pernah, jika penulisan tag HTML salah akan terjadi error.
+
+2. Ketika mengubah meta refresh terdapat perbedaan, yaitu ketika kita menjalankan atau membuka program di web browser secara otomatis akan berubah menuju http://google.com
+
+3. thead : Untuk mengelompokkan konten yang terletak di bagian atas (head) dari sebuah tabel.
+   tbody : Menunjukkan isi tabel.
+   tr    : Menunjukkan baris sebuah tabel (tabel-row).
+   th    : Untuk membuat judul dasi tabel seperti no, nama, dll (tabel-heading).
+   td    : Untuk membuat isi dari th atau baris (tabel-data).
