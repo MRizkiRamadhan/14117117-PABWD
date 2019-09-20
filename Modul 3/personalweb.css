@@ -42,6 +42,8 @@ article {
 	clear: both;
 	overflow: auto;
 	width: 100%;}
+p {
+	text-align: justify;}
 hgroup {
 	margin-top: 40px;}
 figure {
